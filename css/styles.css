@@ -15,12 +15,12 @@ button{
     margin-bottom: 0;
 }
 .jumbo1{
-background-image: url('https://images.pexels.com/photos/2662116/pexels-photo-2662116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+background-image: url(https://images.pexels.com/photos/2662116/pexels-photo-2662116.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
 z-index: 999;
 }
 .jumbo2{
-    background-image: url('https://images.pexels.com/photos/7075789/pexels-photo-7075789.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1000');
+    background-image: url(https://images.pexels.com/photos/7075789/pexels-photo-7075789.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=1000);
 }
 .jumbo3{
-    background-image: url('https://images.pexels.com/photos/3244513/pexels-photo-3244513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+    background-image: url(https://images.pexels.com/photos/3244513/pexels-photo-3244513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
 }
